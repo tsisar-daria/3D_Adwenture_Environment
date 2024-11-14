@@ -1,6 +1,6 @@
 # GAME TITLE: 3D ADWENTURE ENVIRONMENT
 
-![Screenshot](Images/3D.png)
+![Screenshot](Images/3.png)
 
 ## DESCRIPTION
 The environment features an immersive 3D space where players can explore and interact with their surroundings. This dynamic environment allows for walking, jumping, and various interactions with objects.
